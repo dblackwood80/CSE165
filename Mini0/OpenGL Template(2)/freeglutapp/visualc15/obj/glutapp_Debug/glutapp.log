@@ -1,0 +1,8 @@
+﻿  app_main.cpp
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\opengl template(2)\freeglutapp\app_main.cpp(97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\opengl template(2)\freeglutapp\app_main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\opengl template(2)\freeglutapp\app_main.cpp(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\opengl template(2)\freeglutapp\app_main.cpp(214): warning C4018: '<': signed/unsigned mismatch
+  glutapp.vcxproj -> C:\Users\11\Desktop\ENGR 140(CSE 165)(Spring 2017)\OpenGL Template(2)\freeglutapp\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)

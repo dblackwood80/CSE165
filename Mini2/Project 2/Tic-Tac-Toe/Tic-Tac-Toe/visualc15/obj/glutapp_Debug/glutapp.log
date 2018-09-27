@@ -1,0 +1,7 @@
+﻿  App.cpp
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\projects\project 2\tic-tac-toe\tic-tac-toe\player.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\projects\project 2\tic-tac-toe\tic-tac-toe\app.cpp(42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\projects\project 2\tic-tac-toe\tic-tac-toe\app.cpp(45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\11\desktop\engr 140(cse 165)(spring 2017)\projects\project 2\tic-tac-toe\tic-tac-toe\player.h(396): warning C4715: 'Player::player1Won': not all control paths return a value
+  glutapp.vcxproj -> C:\Users\11\Desktop\ENGR 140(CSE 165)(Spring 2017)\Projects\Project 2\Tic-Tac-Toe\Tic-Tac-Toe\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
